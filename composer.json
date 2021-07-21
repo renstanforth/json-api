@@ -1,5 +1,5 @@
 {
-  "name": "json-api",
+  "name": "dan-phiffer/json-api",
   "description": "This is a copy of the JSON-API(https://wordpress.org/plugins/json-api/#description) plugin that is now deprecated in WordPress",
   "type": "wordpress-plugin",
   "license": "GPL-3.0+",
